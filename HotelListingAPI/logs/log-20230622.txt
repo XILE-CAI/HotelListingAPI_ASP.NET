@@ -1,0 +1,15 @@
+2023-06-22 15:27:59.730 +09:30 [INF] Now listening on: https://localhost:7252
+2023-06-22 15:27:59.774 +09:30 [INF] Now listening on: http://localhost:5087
+2023-06-22 15:27:59.777 +09:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-22 15:27:59.779 +09:30 [INF] Hosting environment: Development
+2023-06-22 15:27:59.780 +09:30 [INF] Content root path: C:\Users\CXL\Desktop\REST_API\HotelListingAPI\HotelListingAPI
+2023-06-22 15:30:06.026 +09:30 [INF] Now listening on: https://localhost:7252
+2023-06-22 15:30:06.069 +09:30 [INF] Now listening on: http://localhost:5087
+2023-06-22 15:30:06.073 +09:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-22 15:30:06.074 +09:30 [INF] Hosting environment: Development
+2023-06-22 15:30:06.076 +09:30 [INF] Content root path: C:\Users\CXL\Desktop\REST_API\HotelListingAPI\HotelListingAPI
+2023-06-22 17:55:41.225 +09:30 [INF] Now listening on: https://localhost:7252
+2023-06-22 17:55:41.317 +09:30 [INF] Now listening on: http://localhost:5087
+2023-06-22 17:55:41.322 +09:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-22 17:55:41.324 +09:30 [INF] Hosting environment: Development
+2023-06-22 17:55:41.326 +09:30 [INF] Content root path: C:\Users\CXL\Desktop\REST_API\HotelListingAPI\HotelListingAPI

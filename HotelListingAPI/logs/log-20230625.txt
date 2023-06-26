@@ -1,0 +1,6 @@
+2023-06-25 11:22:49.154 +09:30 [INF] Now listening on: https://localhost:7252
+2023-06-25 11:22:49.219 +09:30 [INF] Now listening on: http://localhost:5087
+2023-06-25 11:22:49.222 +09:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-25 11:22:49.224 +09:30 [INF] Hosting environment: Development
+2023-06-25 11:22:49.225 +09:30 [INF] Content root path: C:\Users\CXL\Desktop\REST_API\HotelListingAPI\HotelListingAPI
+2023-06-25 11:23:20.717 +09:30 [INF] HTTP POST /api/Account/login responded 200 in 3393.3061 ms

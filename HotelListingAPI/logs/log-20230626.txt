@@ -1,0 +1,16 @@
+2023-06-26 10:33:28.705 +09:30 [INF] Now listening on: https://localhost:7252
+2023-06-26 10:33:28.803 +09:30 [INF] Now listening on: http://localhost:5087
+2023-06-26 10:33:28.808 +09:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-26 10:33:28.810 +09:30 [INF] Hosting environment: Development
+2023-06-26 10:33:28.811 +09:30 [INF] Content root path: C:\Users\CXL\Desktop\REST_API\HotelListingAPI\HotelListingAPI
+2023-06-26 10:34:24.644 +09:30 [INF] HTTP GET /api/countries responded 200 in 4425.0301 ms
+2023-06-26 10:34:41.105 +09:30 [INF] HTTP GET /api/countries responded 200 in 81.7376 ms
+2023-06-26 10:35:31.719 +09:30 [INF] HTTP GET /api/countries responded 200 in 179.9081 ms
+2023-06-26 10:35:51.011 +09:30 [INF] HTTP GET /api/countries responded 200 in 4.2010 ms
+2023-06-26 10:36:30.074 +09:30 [INF] HTTP GET /api/countries responded 200 in 13.2182 ms
+2023-06-26 10:37:56.627 +09:30 [INF] HTTP GET /api/countries responded 200 in 57.7121 ms
+2023-06-26 10:38:06.174 +09:30 [INF] HTTP GET /api/countries responded 200 in 7.3293 ms
+2023-06-26 10:38:11.399 +09:30 [INF] HTTP GET /api/countries responded 400 in 29.5982 ms
+2023-06-26 10:38:14.091 +09:30 [INF] HTTP GET /api/countries responded 400 in 8.2953 ms
+2023-06-26 10:38:30.020 +09:30 [INF] HTTP GET /api/countries responded 200 in 3.9736 ms
+2023-06-26 10:38:54.200 +09:30 [INF] HTTP GET /api/countries responded 200 in 17.3257 ms
